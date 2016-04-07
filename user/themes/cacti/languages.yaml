@@ -1,0 +1,11 @@
+en:
+  SITE:
+    TITLE: Dennis Skinner 
+    DESCRIPTION: Just a full stack web app dev
+    COPYRIGHT: © Copyright %s Dennis Skinner
+  SUBSCRIBE: Subscribe
+  TWEET: Tweet
+  SHARE: Share
+  MONTHS_OF_THE_YEAR: [January, February, March, April, May, June, July, August, September, October, November, December]
+  DAYS_OF_THE_WEEK: [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday]
+

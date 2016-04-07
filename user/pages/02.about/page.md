@@ -12,5 +12,5 @@ In my free time I like to tinker with hardware, experiment with app ideas, and w
 
 Contact me on Google mail. My username is Skinner927. Sorry for phrasing that oddly, trying to avoid bot spam.
 
-<a href="https://github.com/skinner927" style="display: block; width: 32px; margin: 0 auto;"><img src="./GitHub-Mark-32px.png" alt="github skinner927" style="width:auto;"/></a>
+<a href="https://github.com/skinner927" style="display: block; width: 32px; margin: 0 auto;"><img src="/user/pages/02.about/GitHub-Mark-32px.png" alt="github skinner927" style="width:auto;"/></a>
 
